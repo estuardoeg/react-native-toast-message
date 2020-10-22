@@ -42,12 +42,12 @@ export default StyleSheet.create({
     height: 9
   },
   text1: {
-    fontSize: 18,
+    fontSize: 20,
     fontWeight: 'bold',
     marginBottom: 3
   },
   text2: {
-    fontSize: 15,
-    color: colors.dustyGray
+    fontSize: 17,
+    color: '#444444',
   }
 });
