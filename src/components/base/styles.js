@@ -1,7 +1,7 @@
 import { StyleSheet } from 'react-native';
 import colors from '../../colors';
 
-export const HEIGHT = 60;
+export const HEIGHT = 90;
 
 export default StyleSheet.create({
   base: {
